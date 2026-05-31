@@ -23,7 +23,7 @@ function Trending() {
     },
     {
       id: 3,
-      name: "B-Complex",
+      name: "BComplex",
       price: "$19.99",
       image: complex,
     },
